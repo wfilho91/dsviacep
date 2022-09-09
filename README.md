@@ -6,8 +6,8 @@ Link to the web application in production : https://wfilho91.github.io/dsviacep/
 
 # Project images in production:
 
-![](https://github.com/wfilho91/dsviacep/tree/main/img/dsviacep1.png)
-![](https://github.com/wfilho91/dsviacep/tree/main/img/dsviacep2.png)
+![](https://github.com/wfilho91/dsviacep/blob/main/img/dsviacep1.png)
+![](https://github.com/wfilho91/dsviacep/blob/main/img/dsviacep2.png)
 
 # Technologies used
 
